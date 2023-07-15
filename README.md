@@ -1,7 +1,6 @@
-# multistylefont-dataset
-多风格字体数据集
+# 字体字形数据集
+在字体研究中，特别利用AI技术生成或模式字体时，需要用到不同格式的数据集，比如图片和矢量格式。本数据集提供3种形态的数据集，TTF原始字库数据集，JPG和PNG字体图像数据集和矢量SVG数据集。
 
-txt9169.json:9169个汉字的unicode编码
-loadSVG.py:从ttf文件提取想要的png图片
 
-可批量提取多个ttf文件中固定数量的图片
+## txt9169.json:9169个汉字的unicode编码
+## loadSVG.py:从ttf文件提取想要的png图片
