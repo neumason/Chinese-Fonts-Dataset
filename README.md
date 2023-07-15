@@ -2,5 +2,5 @@
 在字体研究中，特别利用AI技术生成或模式字体时，需要用到不同格式的数据集，比如图片和矢量格式。本数据集提供3种形态的数据集，TTF原始字库数据集，JPG和PNG字体图像数据集和矢量SVG数据集。
 
 
-## txt9169.json:9169个汉字的unicode编码
-## loadSVG.py:从ttf文件提取想要的png图片
+1. txt9169.json:9169个汉字的unicode编码；
+2. loadSVG.py:从ttf文件提取想要的png图片。
